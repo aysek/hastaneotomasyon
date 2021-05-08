@@ -1,0 +1,2 @@
+# hastaneotomasyon
+Hastane otomasyon projesi
